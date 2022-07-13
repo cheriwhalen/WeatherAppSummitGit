@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  WeatherAppSummitGit
 //
-//  Created by Cheri Whalen on 7/13/22.
+//  Created by Cheri Whalen PhilZaccari on 7/13/22.
 //
 
 import SwiftUI
@@ -10,7 +10,7 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         ZStack{
-            Color.yellow.edgesIgnoringSafeArea(.all)
+            Color.red.edgesIgnoringSafeArea(.all)
             
             
         }
